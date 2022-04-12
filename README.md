@@ -7,5 +7,5 @@ This repository is pratice golang
 - [X]  [Structs](https://github.com/KevenMarioN/foundation_golang/blob/main/I/structs.go)
 
 ## Foundation II
-- [X] [If_Else]()
-- [X] [Switch]()
+- [X] [If_Else](https://github.com/KevenMarioN/foundation_golang/blob/main/II/if_else.go)
+- [X] [Switch](https://github.com/KevenMarioN/foundation_golang/blob/main/II/switch.go)
